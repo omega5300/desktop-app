@@ -1,0 +1,28 @@
+{
+  "newWIndow": {
+    "scope": "typescript,javascript",
+    "prefix": "newWIndow",
+    "body": ""
+  },
+  "comentario 1": {
+    "scope": "typescript,css,javascript",
+    "prefix": "cmt1",
+    "body": "/* --  -- */",
+    "description": "Se debe usar para una especificacion corta"
+  },
+  "comentario 2": {
+    "scope": "typescript,css,javascript",
+    "prefix": "cmt2",
+    "body": [
+      "/* -------------------------------------------------------------------------",
+      " *\t",
+      "------------------------------------------------------------------------- */"
+    ],
+    "description": "Se ebe usar para  separar seciones importantes colocndole un nombre a esa seccion"
+  },
+  "separador": {
+    "scope": "typescript,javascript,css",
+    "prefix": "spr",
+    "body": "------------------------------------------------------------------------"
+  }
+}

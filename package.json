@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Fazt-Community-Desktop-App/desktop-app/issues"
   },
-  "homepage": "https://github.com/Fazt-Community-Desktop-App/desktop-app#readme"
+  "homepage": "https://github.com/Fazt-Community-Desktop-App/desktop-app#readme",
+  "devDependencies": {
+    "electron": "^9.1.0",
+    "electron-reload": "^1.5.0"
+  },
+  "dependencies": {
+    "electron-package": "^0.1.0"
+  }
 }
