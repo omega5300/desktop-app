@@ -18,6 +18,6 @@ let registerWindow = null;
 app.on("ready", () => {
   homeWindow = new BrowserWindow({
     width: 800,
-    heigth: 600,
+    height: 600,
   });
 });
